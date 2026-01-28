@@ -743,9 +743,12 @@ const renderSpinner = function(parentEl) {
 renderSpinner(recipeContainer);
 const showRecipe = async function() {
     try {
+        const id = window.location.hash.slice(1);
+        console.log(id);
+        if (!id) return;
         // 1) Loading recipe
         const res = await fetch(// `https://forkify-api.jonas.io/api/v2/recipes/664c8f193e7aa067e94e85be`,
-        `https://forkify-api.jonas.io/api/v2/recipes/5ed6604591c37cdc054bc886`);
+        `https://forkify-api.jonas.io/api/v2/recipes/${id}`);
         const data = await res.json();
         if (!res.ok) throw new Error(`${data.message} (${res.status})`);
         console.log(res, data);
@@ -853,7 +856,13 @@ const showRecipe = async function() {
         alert(err);
     }
 };
-showRecipe();
+// showRecipe();
+[
+    'hashchange',
+    'load'
+].forEach((ev)=>{
+    window.addEventListener(ev, showRecipe);
+});
 
 },{"url:../img/icons.svg":"fd0vu","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","core-js/modules/web.immediate.js":"bzsBv","regenerator-runtime/runtime":"f6ot0"}],"fd0vu":[function(require,module,exports,__globalThis) {
 module.exports = module.bundle.resolve("icons.0809ef97.svg") + "?" + Date.now();
