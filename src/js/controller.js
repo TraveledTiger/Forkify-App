@@ -2,6 +2,7 @@ import * as model from './model.js';
 import recipeView from './views/recipeView.js';
 
 console.log('change');
+console.log('change again?');
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
