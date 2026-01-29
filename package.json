@@ -1,0 +1,28 @@
+{
+  "name": "forkify-app",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "homepage": "https://github.com/TraveledTiger/starter#readme",
+  "bugs": {
+    "url": "https://github.com/TraveledTiger/starter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TraveledTiger/starter.git"
+  },
+  "license": "ISC",
+  "author": "Samuel Brown",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "core-js": "^3.48.0",
+    "parcel": "^2.16.3",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.3"
+  }
+}
