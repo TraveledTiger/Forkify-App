@@ -20,7 +20,7 @@
 151C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\actual\date\now.js134141094430000000 0
 156C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\lmdb\dependencies\lz4\lib\lz4.c134141094430000000 0
 174C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile134141094430000000 0
-116C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist134146225540759873 1
+116C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist134146278042879432 1
 156C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\caniuse-lite\data\regions\PR.js134141094430000000 0
 138C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\src\js\views\searchView.js134142818020045366 0
 160C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\modules\es.string.substr.js134141094430000000 0
@@ -108,7 +108,7 @@
 159C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\sass\types\legacy\plugin_this.d.ts134141094430000000 0
 162C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\full\function\virtual\bind.js134141094430000000 0
 149C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\es\array\from.js134141094430000000 0
-138C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\src\js\views\recipeView.js134146225540441477 0
+138C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\src\js\views\recipeView.js134146235394479253 0
 151C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\msgpackr-extract\README.md134141094430000000 0
 166C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\modules\esnext.iterator.chunks.js134141094430000000 0
 134C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\commander134141094430000000 1
@@ -147,7 +147,7 @@
 157C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\stable\number\epsilon.js134141094430000000 0
 131C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\@babel134141803811213663 1
 150C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\@parcel\utils\src\blob.js134141094430000000 0
-132C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\src\js\controller.js134146223503933465 0
+132C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\src\js\controller.js134146266678089417 0
 127C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\src\js\model.js134146194713696295 0
 161C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\@parcel\workers\src\web\WebWorker.js134141094430000000 0
 184C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js134141094430000000 0
@@ -215,7 +215,7 @@
 160C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\actual\typed-array\every.js134141094430000000 0
 171C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\internals\array-buffer-not-detached.js134141094430000000 0
 164C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\stable\array\virtual\entries.js134141094430000000 0
-132C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\src\js\views\view.js134142860854390387 0
+132C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\src\js\views\view.js134146278042562361 0
 154C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\modules\es.promise.js134141094430000000 0
 131C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\src\img\favicon.png134141094430000000 0
 199C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed\package.json134141094430000000 0
@@ -4203,7 +4203,7 @@
 152C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\es\iterator\drop.js134141094430000000 0
 152C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\full\weak-set\of.js134141094430000000 0
 155C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\features\json\index.js134141094430000000 0
-145C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\Forkify App.f7626f62.css.map134146219399238583 0
+145C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\Forkify App.f7626f62.css.map134146272167164086 0
 160C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\full\weak-map\delete-all.js134141094430000000 0
 157C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\core-js\full\weak-map\emplace.js134141094430000000 0
 154C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\@parcel\transformer-image\src134141094430000000 1
@@ -6558,7 +6558,7 @@
 174C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\caniuse-lite\data\features\wasm-extended-const.js134141094430000000 0
 172C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\caniuse-lite\data\features\wasm-multi-memory.js134141094430000000 0
 175C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\caniuse-lite\data\features\wasm-mutable-globals.js134141094430000000 0
-127C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\index.html134146219399006795 0
+127C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\index.html134146272166805843 0
 175C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\caniuse-lite\data\features\wasm-reference-types.js134141094430000000 0
 172C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\caniuse-lite\data\features\wasm-relaxed-simd.js134141094430000000 0
 181C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\@parcel\runtime-js\lib\helpers\browser\preload-loader.js134141094430000000 0
@@ -6877,7 +6877,7 @@
 154C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\@swc\helpers\cjs\_dispose.cjs134141094430000000 0
 158C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\@swc\helpers\cjs\_export_star.cjs134141094430000000 0
 154C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\@swc\helpers\cjs\_extends.cjs134141094430000000 0
-140C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\Forkify App.4a59a05f.js134146225540734554 0
+140C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\Forkify App.4a59a05f.js134146278042859085 0
 155C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\@swc\helpers\cjs\_identity.cjs134141094430000000 0
 155C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\@swc\helpers\cjs\_inherits.cjs134141094430000000 0
 161C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\@swc\helpers\cjs\_inherits_loose.cjs134141094430000000 0
@@ -7520,7 +7520,7 @@
 146C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\.bin\browserslist.cmd134141094430000000 0
 153C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\.bin\download-lmdb-prebuilds134141094430000000 0
 157C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\.bin\download-lmdb-prebuilds.cmd134141094430000000 0
-135C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\icons.0809ef97.svg134146219399238583 0
+135C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\icons.0809ef97.svg134146272166828986 0
 135C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\.bin\json5134141094430000000 0
 162C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\.bin\node-gyp-build-optional-packages134141094430000000 0
 175C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1134141094430000000 0
@@ -7530,12 +7530,12 @@
 140C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\.bin\parcel.ps1134141094430000000 0
 138C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\.bin\sass.cmd134141094430000000 0
 156C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\node_modules\.bin\update-browserslist-db.ps1134141094430000000 0
-137C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\favicon.8b2f57bf.png134146219398961856 0
+137C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\favicon.8b2f57bf.png134146272166858233 0
 140C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\Forkify App.3464ddca.js134141094430000000 0
-144C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\Forkify App.4a59a05f.js.map134146225540754822 0
+144C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\Forkify App.4a59a05f.js.map134146278042879432 0
 144C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\Forkify App.62406edb.js.map134141094430000000 0
-141C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\Forkify App.f7626f62.css134146219399006795 0
+141C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\Forkify App.f7626f62.css134146272167142213 0
 145C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\Forkify-App-main.4a59a05f.js134141813106800706 0
-135C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\icons.21bad73c.svg134146219399238583 0
+135C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\icons.21bad73c.svg134146272166819013 0
 135C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\icons.7bd9dd61.svg134141094430000000 0
-134C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\logo.726d37a8.png134146219399238583 0
+134C:\Users\Samuel Brown\Desktop\completejavascriptcourse\complete-javascript-course-master\18-forkify\Forkify App\dist\logo.726d37a8.png134146272167458896 0
